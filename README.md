@@ -1,5 +1,5 @@
 # GraphTheoryStudies
-Generate a table with graphs and related tables
+Generate a table with graphs and related tables.
 
 **Language: Python**
 
